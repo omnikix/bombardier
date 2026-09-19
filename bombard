@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": string,
+    "previewText": string,
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "ggsans-Bold": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "ggsans-BoldItalic": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "ggsans-ExtraBold": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "ggsans-Medium": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "ggsans-MediumItalic": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "ggsans-Normal": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "ggsans-NormalItalic": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "ggsans-Semibold": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "NotoSans-Bold": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "NotoSans-ExtraBold": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "NotoSans-Medium": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "NotoSans-Normal": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "NotoSans-NormalItalic": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "NotoSans-Semibold": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf",
+        "SourceCodePro-Semibold": "https://github.com/omnikix/bombardier/blob/main/BOMBARD_.ttf"
+    }
+}
